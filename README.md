@@ -1,2 +1,3 @@
-# the-zen-of-annet
-The way of thinking about the annet ecosystem
+The Zen of Annet
+================
+**The way of thinking about the annet ecosystem**
